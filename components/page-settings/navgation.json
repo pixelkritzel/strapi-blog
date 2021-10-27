@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_settings_navgations",
+  "info": {
+    "name": "navgation",
+    "icon": "map-marker",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "display_name": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
