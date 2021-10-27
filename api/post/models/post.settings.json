@@ -86,6 +86,14 @@
       },
       "type": "datetime",
       "required": true
+    },
+    "html_content": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
     }
   }
 }
